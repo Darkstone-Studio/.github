@@ -1,8 +1,8 @@
-# Darkstone Studio 🚀
+# Darkstone Studio 
 
 We design and build modern software, web, and mobile applications.
 
-### 📬 Contact
+### Contact
 - **Email:** darkstonestudio.dev@gmail.com
 - **Projects:** [Browse Repositories](https://github.com/orgs/DarkstoneStudio/repositories)
 
